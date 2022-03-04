@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gagan
+- 👋 Hi, I’m @CaGagan001
 - 👀 I’m interested in python,Linux and termux
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking for a teacher to teach me about above listed languages
